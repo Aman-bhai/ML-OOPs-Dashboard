@@ -18,7 +18,7 @@ This Flask web application provides a platform for users to sign up, log in, and
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/Aman-bhai/ML-OOPs-Dashboard.git
     cd your-repository
     ```
 
